@@ -37,6 +37,6 @@ console.log(c / d);  // 4503599627370495n (notice: division result is truncated,
 
 
 let s=10n
-let t=12
-let u=s+t
+let t=12n
+let u=s+t;
 console.log(u)
